@@ -1,0 +1,9 @@
+Arquivos de log *.log
+
+Diretório node_modules node_modules/
+
+Pastas de build build/ dist/
+
+Arquivos temporários *.tmp *~ .DS_Store
+
+Ambiente virtual Python venv/
